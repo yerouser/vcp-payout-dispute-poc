@@ -1,0 +1,36 @@
+{
+  "trader_anchor": {
+    "anchor_id": "anchor-4ee1a615c6702e89",
+    "merkle_root": "1b8d2878dcb13c6de88a9225f64d7a4740f6dbc0c31e2fb5498a54f895d760e8",
+    "signature": "ulR+R/yWuSWPOZV1lkubkFjxJmsXasi4Bim2oZoilAJ6lvDfLCDaOnYRW/zqoCAo8Wtt4DoILBTCGSEz/5QELg==",
+    "sign_algo": "ED25519",
+    "public_key": "c1f108292ff59cc023719e579f96c057ae851bb18b661ea1767f512a8afb2f88",
+    "timestamp": 1735700400180000000,
+    "anchor_target": {
+      "type": "PUBLIC_SERVICE",
+      "identifier": "opentimestamps.org",
+      "proof": "ots-a673d5cdf5ad10e15d9d41f701337761"
+    },
+    "event_count": 23,
+    "first_event_id": "01941f29-7c00-7001-90df-cedea2f7",
+    "last_event_id": "01941fce-4834-7017-34bc-4045c8a7",
+    "policy_id": "org.veritaschain.poc:trader-001"
+  },
+  "propfirm_anchor": {
+    "anchor_id": "anchor-dab029d5ba512a1b",
+    "merkle_root": "e29fe887dd16ff1c5515c92f6a3d1872bfc314c64721db7906ff7b102ffe1717",
+    "signature": "FPvyGWJNfVzlP5amxAkI8t39B8sn5v4hju6wJqX9GdpJGlmewccBYk/PjzX9HD+a/oJogKbcVaMLspLO6lPW/g==",
+    "sign_algo": "ED25519",
+    "public_key": "7f74f5f89f1a1d1163dd5df9d7f436d500afcee088e98662b8dec6f93968aa2b",
+    "timestamp": 1735700400178000000,
+    "anchor_target": {
+      "type": "PUBLIC_SERVICE",
+      "identifier": "opentimestamps.org",
+      "proof": "ots-a53986052e014220fcb759de3be50ad3"
+    },
+    "event_count": 23,
+    "first_event_id": "01941f29-7c05-7001-b2e6-6de18568",
+    "last_event_id": "01941fce-4832-7017-c88b-b6a06895",
+    "policy_id": "org.veritaschain.poc:propfirm-001"
+  }
+}
